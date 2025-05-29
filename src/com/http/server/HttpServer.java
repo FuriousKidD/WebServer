@@ -1,6 +1,6 @@
 /**
- * @author TW MANHEMA 221029907
- * @version Practical 03
+ * @author TW MANHEMA
+ * @version 3
  */
 package com.http.server;
 
