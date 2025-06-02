@@ -32,11 +32,7 @@ The server is designed as part of a practical assignment focused on understandin
   <figcaption> Figure 1.4: Demo of opening a non existing webpage</figcaption>
 </figure>
 
-
-
-
----
-
+--- 
 ## Features  
 - Listens on port **4321** for incoming client connections.  
 - Processes HTTP requests according to the official protocol.  
@@ -71,7 +67,7 @@ You can run the server manually or use the provided batch file.
 2. Or simply run the batch file to compile and start the server:  
 
     ```bash
-    runServer.bat
+    build.bat
     ```  
 
 3. Open a web browser and visit one of these URLs:  
@@ -94,7 +90,7 @@ The project files are organized as follows:
 - `Durban.html` — Static HTML file for Durban page  
 - `CapeWithImage.html` — Static HTML with embedded images  
 - `Africa.jpg` — Image file served as binary content  
-- `runServer.bat` — Batch script to compile and start the server  
+- `build.bat` — Batch script to compile and start the server  
 
 ## Implementation Details  
 - Uses `ServerSocket` to listen for connections on port 4321.  
