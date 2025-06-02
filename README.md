@@ -8,29 +8,25 @@ The server is designed as part of a practical assignment focused on understandin
 ## Demo  
 *Below are screenshots demonstrating the WebServer handling requests on localhost:*  
 
-<!--  
-Insert screenshots here like:  
-![Joburg Page](path/to/joburg_screenshot.png)  
-![Cape Page with Image](path/to/cape_screenshot.png)  
-![404 Error Page](path/to/404_screenshot.png)  
--->
+# Plain HTML 
 <figure>
-  <img width="959" alt="example PlainHtml" src="https://github.com/user-attachments/assets/118dc402-33d4-4885-982b-ab8432342061" />
+  <img width="959" alt="example PlainHtml" src="https://github.com/user-attachments/assets/118dc402-33d4-4885-982b-ab8432342061"/>
   <figcaption> Figure 1.1: Demo of opening a plain html webpage</figcaption>
 </figure>
 
-
+# Image only
 <figure>
   <img width="959" alt="Example2-Image retrieved-ServerToClient" src="https://github.com/user-attachments/assets/9b64a692-0346-4895-bd3f-f9f3846af8b7" />
   <figcaption> Figure 1.2: Demo of opening a image only webpage</figcaption>
 </figure>
 
-
+# HTML with image
 <figure>
   <img width="959" alt="Example HtmlWithImages" src="https://github.com/user-attachments/assets/98b681b0-c423-4b07-9111-3fd7a21ab999" />
   <figcaption> Figure 1.3: Demo of opening an html with image webpage</figcaption>
   </figure>
 
+# Error 404 not found
 <figure>
   <img width="959" alt="Example1-Error Messages" src="https://github.com/user-attachments/assets/2dfe919c-8b9a-402c-855c-1fa24d504b60" />
   <figcaption> Figure 1.4: Demo of opening a non existing webpage</figcaption>
